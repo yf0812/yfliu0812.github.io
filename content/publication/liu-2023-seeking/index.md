@@ -2,7 +2,7 @@
 title: 'Seeking the yield barrier: High-dimensional sram evaluation through optimal
   manifold'
 authors:
-- Yanfang Liu
+- admin
 - Guohao Dai
 - Wei W Xing
 date: '2023-01-01'

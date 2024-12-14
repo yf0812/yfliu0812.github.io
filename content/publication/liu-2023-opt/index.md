@@ -2,7 +2,7 @@
 title: 'OPT: Optimal Proposal Transfer for Efficient Yield Optimization for Analog
   and SRAM Circuits'
 authors:
-- Yanfang Liu
+- admin
 - Guohao Dai
 - Yuanqing Cheng
 - Wang Kang

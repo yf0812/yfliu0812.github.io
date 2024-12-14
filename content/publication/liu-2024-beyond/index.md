@@ -1,7 +1,7 @@
 ---
 title: 'Beyond the Yield Barrier: Variational Importance Sampling Yield Analysis'
 authors:
-- Yanfang Liu
+- admin
 - Lei He
 - Wei W Xing
 date: '2024-01-01'

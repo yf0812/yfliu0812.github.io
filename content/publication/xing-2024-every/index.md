@@ -3,7 +3,7 @@ title: 'Every Failure Is A Lesson: Utilizing All Failure Samples To Deliver Tuni
   Efficient Yield Evaluation'
 authors:
 - Wei Xing
-- Yanfang Liu
+- admin
 - Weijian Fan
 - Lei He
 date: '2024-01-01'
