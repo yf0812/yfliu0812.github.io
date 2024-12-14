@@ -1,9 +1,9 @@
 ---
 # Display name
-title: 刘艳芳
+title: Yanfang Liu
 
 # Name pronunciation (optional)
-name_pronunciation: Yanfang Liu
+# name_pronunciation: Yanfang Liu
 
 # Full name (for SEO)
 first_name: Yanfang
@@ -20,7 +20,7 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Yanfang Liu
+role: 刘艳芳
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
